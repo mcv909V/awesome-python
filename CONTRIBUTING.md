@@ -1,3 +1,4 @@
+# bitte senden sie eine mail an: kollege@firma.de
 # Contributing
 
 Your contributions are always welcome!
